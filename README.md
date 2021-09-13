@@ -1,3 +1,6 @@
+I did not like the headers styles in the original one 
+
+
 # OneDark Theme
 
 A **DARK** theme for Typora inspired by One Dark theme and Material Design.
